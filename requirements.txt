@@ -1,0 +1,16 @@
+asgiref==3.8.1
+comtypes==1.2.0
+Django==5.0.4
+django-mathfilters==1.0.0
+django-quill==0.1.0
+django-quill-editor==0.1.40
+django-taggit==5.0.1
+django-widget-tweaks==1.5.0
+pillow==10.3.0
+pycodestyle==2.8.0
+pypiwin32==223
+pyttsx3==2.90
+pywin32==306
+sqlparse==0.4.2
+toml==0.10.2
+tzdata==2022.1
